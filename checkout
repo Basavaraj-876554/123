@@ -1,0 +1,5 @@
+echo "hey hi how are you"
+
+touch 12
+touch 34
+ls -lrt
